@@ -1,4 +1,4 @@
-# Queries-for-awesome-chocolates-company
+# Exploratory Data Analysis using MySql.
 
 This is an sql project created by me for awesome chocolates company .
 
